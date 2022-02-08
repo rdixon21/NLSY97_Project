@@ -1,3 +1,4 @@
+#Note to build startup file
 library(ggplot2)
 library(magrittr)
 library(dplyr)

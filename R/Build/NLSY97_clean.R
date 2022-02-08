@@ -1,3 +1,4 @@
+# NOTE to build startup file
 # Builds the cleaned NLSY97 Dataset
 #vignettes used: colwise, rowwise
 #packages installed: here, magrittr, dplyr

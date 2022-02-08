@@ -1,3 +1,4 @@
+# Note to build startup file
 # Builds a bar graph with total arrests on the y axis and race/gender on the
 # x axis. Refer to my presentation on graphing for more detail.
 library(ggplot2)
